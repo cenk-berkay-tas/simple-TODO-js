@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: sans;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+.snas {
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
