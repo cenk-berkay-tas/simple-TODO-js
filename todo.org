@@ -1,0 +1,14 @@
+* TODO Create task function
+When submit is pressed, create a task object with the given string and set its done value 
+to false. Store the tasks locally as json files
+* TODO Load task function
+When the page is loaded, read the json file and restore the previous session
+* TODO Change task state function
+Simply change the done variable to true.
+* TODO display tasks
+At first, log the tasks on the console but once the other two tasks are completed, display
+the tasks on screen, trigger change task state function through a checkbox.
+
+
+
+* Should we try utilizing TTD?
